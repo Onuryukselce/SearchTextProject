@@ -10,10 +10,10 @@
 using namespace std;
 
 static string yollar[4] = {
-		"C:\\Users\\Onur\\Desktop\\DÜZCE ÜNİVERSİTESİ\\Proje\\Veri Yapıları\\kelime.txt",
-		"C:\\Users\\Onur\\Desktop\\DÜZCE ÜNİVERSİTESİ\\Proje\\Veri Yapıları\\kelime.csv",
-		"C:\\Users\\Onur\\Desktop\\DÜZCE ÜNİVERSİTESİ\\Proje\\Veri Yapıları\\kelime.html",
-		"C:\\Users\\Onur\\Desktop\\DÜZCE ÜNİVERSİTESİ\\Proje\\Veri Yapıları\\kelime.xml"
+		"TXT Veri Yolu Buraya",
+		"CSV Veri Yolu Buraya",
+		"HTML Veri Yolu Buraya",
+		"XML Veri Yolu Buraya"
 };
 
 int static g_index = 1;
